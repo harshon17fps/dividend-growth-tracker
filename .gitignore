@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated output
+output/
+
+# Local tooling
+.tools/
+
+# OS
+.DS_Store
+
+# Drafts
+linkedin_post.md
