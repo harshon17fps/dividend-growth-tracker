@@ -88,3 +88,7 @@ t.chart_dividend_ladder().show()
 - If EPS is zero or negative and there's no payout ratio, the position is flagged `RISKY (EPS ≤ 0)`.
 - Failed network calls are retried with increasing waits between attempts.
 - Rows with invalid share counts or costs are dropped, and duplicate lots are merged.
+
+## License
+
+Released under the [MIT License](LICENSE). This is an analytical tool, not investment advice.
